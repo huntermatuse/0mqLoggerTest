@@ -1,4 +1,4 @@
-# 0mqLoggerTest
+# ØMQ Logger Test
 personal debugging tool for capturing logs using zmq.PUSH to forward logs to central collector that can print out and write to a sqlite.db
 
 currently this is an mvp to test how well i can make this work. i would like to convert this to rust or c++ for better deployability one day
